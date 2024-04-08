@@ -1,7 +1,7 @@
 # TicTacToe
 Ein TicTacToe-Spiel mit Fokus auf die KI per minimax-Algorithmus und zwei weiteren KIs mit einem GreedyAlgorithmus.
 
-Minimax Alogrithmus in TicTacToe: 
+**Minimax Alogrithmus in TicTacToe:** 
 
 ![image](https://github.com/LorenzWenzel/TicTacToe/assets/73563833/316de4bb-3f37-44c1-8cf7-1a7e9806660d)
 
